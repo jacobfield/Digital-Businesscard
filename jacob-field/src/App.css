@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+
 .mainBody {
   height: 95vh;
   width: 30vw;
@@ -14,7 +16,15 @@
     to left top,
     #d4b165 0%,
     #e2d09a 13.33%,
-    #dfece6 70.66%,
+    #dfece6 66.66%,
     white 100%
   );
+}
+
+.header-title {
+  font-family: "DM Sans", sans-serif;
+  margin-top: 2rem;
+}
+.jacob {
+  color: #b88f2b;
 }
