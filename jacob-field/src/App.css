@@ -1,0 +1,9 @@
+.mainBody {
+  height: 100vh;
+  width: 100%;
+  max-width: 430px;
+  max-width: 932px;
+  background-color: gold;
+  display: flex;
+  justify-content: center; /* This is horizontal*/
+}

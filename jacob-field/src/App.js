@@ -1,11 +1,8 @@
 import "./App.css";
+import { Body } from "./comps/Body.tsx";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header"></header>
-    </div>
-  );
+  return <Body></Body>;
 }
 
 export default App;
