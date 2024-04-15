@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
 
 .mainBody {
-  height: 95vh;
-  width: 90%;
+  height: 100vh;
+  width: 100vw;
   max-width: 430px;
   max-width: 932px;
   display: flex;
