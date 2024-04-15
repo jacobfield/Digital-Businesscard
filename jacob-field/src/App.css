@@ -2,7 +2,7 @@
 
 .mainBody {
   height: 95vh;
-  width: 30vw;
+  width: 90%;
   max-width: 430px;
   max-width: 932px;
   display: flex;
@@ -39,5 +39,5 @@
   border: 1px solid lime;
   height: 80%;
   width: 70%;
-  border-radius: 25% 40% 0 0;
+  border-radius: 25% 35% 0 0;
 }
