@@ -1,9 +1,20 @@
 .mainBody {
-  height: 100vh;
-  width: 100%;
+  height: 95vh;
+  width: 30vw;
   max-width: 430px;
   max-width: 932px;
-  background-color: gold;
   display: flex;
   justify-content: center; /* This is horizontal*/
+  margin: 0 auto;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  padding: 5px;
+  /* Background colouring */
+  background-image: linear-gradient(
+    to left top,
+    #d4b165 0%,
+    #e2d09a 13.33%,
+    #dfece6 70.66%,
+    white 100%
+  );
 }
