@@ -5,7 +5,7 @@ export function Main() {
     <div className="arch-div">
       <img
         className="profile-pic"
-        src="linkedin.png"
+        src="Linkedin.png"
         alt="Jacob Field profile "
       />
     </div>
