@@ -7,11 +7,26 @@ import { ImProfile } from "react-icons/im";
 export function Info() {
   return (
     <div className="info-container">
-      <p>Phone Number:</p>
-      <p>Email address:</p>
-      <p>Portfolio:</p>
-      <p>Location:</p>
-      <p>Social media links:</p>
+      <div className="info-holder">
+        <p>Phone Number:</p>
+      </div>
+      <div className="info-holder">
+        <p>Email address:</p>
+      </div>
+      <div className="info-holder">
+        <p>Portfolio:</p>
+      </div>
+      <div className="info-holder">
+        <p>Location:</p>
+      </div>
+      <div className="info-holder">
+        <p>Social media links:</p>
+        <FaLinkedin className="icon" />
+        <TiSocialInstagram className="icon" />
+        <FaSquareGithub className="icon" />
+        <MdOutlineEmail className="icon" />
+        <ImProfile className="icon" />
+      </div>
     </div>
   );
 }
