@@ -13,7 +13,7 @@ body {
   justify-content: center; /* This is horizontal*/
   margin: 0 auto;
   border-radius: 10px;
-  padding: 5px;
+  padding: 3px;
   /* Background colouring */
   background-image: linear-gradient(
     to left top,
