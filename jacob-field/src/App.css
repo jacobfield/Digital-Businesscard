@@ -33,14 +33,18 @@
 .profile-pic {
   border-radius: 60%;
   height: 15rem;
+  width: 15rem;
+  /* border: 1px solid white; */
 }
 
-.arch-div {
+/* .arch-div {
   border: 1px solid lime;
   height: 80%;
-  width: 45%;
+  width: 15rem;
   margin: 0 auto;
-  border-radius: 25% 35% 0 0;
+  border-radius: 50% 50% 0 0;
   display: flex;
   justify-content: center;
-}
+  flex-direction: column;
+  align-items: center;
+} */
