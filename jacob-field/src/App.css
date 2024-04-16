@@ -38,6 +38,9 @@
 .arch-div {
   border: 1px solid lime;
   height: 80%;
-  width: 70%;
+  width: 45%;
+  margin: 0 auto;
   border-radius: 25% 35% 0 0;
+  display: flex;
+  justify-content: center;
 }
